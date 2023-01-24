@@ -16,15 +16,21 @@
     border: none;
 }
 
-.legal-bg-img {
+/* .legal-bg-img {
     background-image: url(../images/banner.png);
     background-repeat: no-repeat;
     position: relative;
     left: 60px;
     height: 60vh;
     width: 100%;
-}
+} */
 
 .lg-card {
     border-radius: 0;
+}
+
+.slider-img {
+    height: 80vh;
+    background-color: rgba(0, 0, 0, 0.411);
+    background-blend-mode: overlay;
 }
