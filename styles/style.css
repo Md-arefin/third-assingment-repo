@@ -1,0 +1,30 @@
+:root {
+    --title-font: 'EB Garamond', serif;
+    --primary-lg-font: 'Poppins', sans-serif;
+}
+
+.lg-title-font {
+    font-family: var(--title-font);
+}
+
+.lg-primary-font {
+    font-family: var(--primary-lg-font);
+}
+
+.lg-btn-color {
+    background-color: #B68C5A;
+    border: none;
+}
+
+.legal-bg-img {
+    background-image: url(../images/banner.png);
+    background-repeat: no-repeat;
+    position: relative;
+    left: 60px;
+    height: 60vh;
+    width: 100%;
+}
+
+.lg-card {
+    border-radius: 0;
+}
